@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="wbase2tables">
+  <DataContextMoniker Name="/wbase2tablesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="281dc98f-6e49-4147-a481-0f96ad24b64f" absoluteBounds="5.625, 4.25, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/wbase2tablesDataContext/Visitor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9c8f04fb-618c-422a-bb50-72bb94425791" absoluteBounds="5.64, 4.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
